@@ -1,0 +1,20 @@
+body{
+    background-color:beige;
+    background-image: url(https://godotengine.org/assets/press/logo_vertical_color_light.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 40%;
+}
+
+h1{
+    font-family: 'Rubik Iso', cursive;
+    font-size: 300%;
+    text-align: center;
+    color:darkblue;
+}
+
+li{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 120%;
+    text
+}
